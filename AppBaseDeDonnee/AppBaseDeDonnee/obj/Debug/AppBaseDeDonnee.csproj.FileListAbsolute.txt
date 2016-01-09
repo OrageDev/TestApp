@@ -1,0 +1,9 @@
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\bin\Debug\AppBaseDeDonnee.exe.config
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\bin\Debug\AppBaseDeDonnee.exe
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\bin\Debug\AppBaseDeDonnee.pdb
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\obj\Debug\AppBaseDeDonnee.Form1.resources
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\obj\Debug\AppBaseDeDonnee.Properties.Resources.resources
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\obj\Debug\AppBaseDeDonnee.csproj.GenerateResource.Cache
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\obj\Debug\AppBaseDeDonnee.exe
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\obj\Debug\AppBaseDeDonnee.pdb
+c:\users\orage\documents\visual studio 2015\Projects\AppBaseDeDonnee\AppBaseDeDonnee\obj\Debug\AppBaseDeDonnee.csprojResolveAssemblyReference.cache
